@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is React?",
+    "answers": [
+      { "text": "A JavaScript library", "isCorrect": true },
+      { "text": "A database", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is TypeScript?",
+    "answers": [
+      { "text": "A superset of JavaScript", "isCorrect": true },
+      { "text": "A CSS framework", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is MongoDB?",
+    "answers": [
+      { "text": "A NoSQL Database", "isCorrect": true },
+      { "text": "A frontend framework", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does JSX stand for?",
+    "answers": [
+      { "text": "JavaScript XML", "isCorrect": true },
+      { "text": "Java Syntax Extension", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is Express.js used for?",
+    "answers": [
+      { "text": "Building APIs", "isCorrect": true },
+      { "text": "Styling UI", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does `useState` do in React?",
+    "answers": [
+      { "text": "Manages component state", "isCorrect": true },
+      { "text": "Handles API requests", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is an API?",
+    "answers": [
+      { "text": "Application Programming Interface", "isCorrect": true },
+      { "text": "A frontend library", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is Node.js?",
+    "answers": [
+      { "text": "A JavaScript runtime", "isCorrect": true },
+      { "text": "A database system", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is Vite?",
+    "answers": [
+      { "text": "A frontend build tool", "isCorrect": true },
+      { "text": "A CSS preprocessor", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the purpose of `npm install`?",
+    "answers": [
+      { "text": "Installs project dependencies", "isCorrect": true },
+      { "text": "Starts the Node.js server", "isCorrect": false }
+    ]
+  }
+]
